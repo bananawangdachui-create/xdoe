@@ -1,0 +1,67 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment directories
+venv/
+.venv/
+env/
+ENV/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Log files
+doe_app.log
+*.log
+
+# Build files
+build/
+dist/
+*.spec
+
+# demo files
+demo/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Qt-related files
+*.ui
+*.qrc
+*.qm
+
+# Package files
+*.egg
+*.egg-info/
+.Python
+
+# Test files
+.pytest_cache/
+.tox/
+.coverage
+coverage.xml
+
+# Documentation builds
+docs/_build/
+build/docs/
+
+# Virtual environment files
+.python-version
+pip-selfcheck.json
